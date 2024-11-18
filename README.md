@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Restu Anggia Putra</h1>
-<h3 align="center">Informatics student | Developer | Indonesian Technocrat University</h3>
+<h3 align="center">Informatics Student | Developer | Indonesian Technocrat University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=restuanggia&label=Profile%20views&color=0e75b6&style=flat" alt="restuanggia" /> </p>
 
